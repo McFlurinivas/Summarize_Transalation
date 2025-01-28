@@ -66,6 +66,7 @@ This README outlines the workflow of the script, detailing the processes involve
 
 ## Acknowledgements
 This project utilizes:
+- Ollama Client
 - LangChain Framework
 - Whisper
 - HuggingFace Transformers
