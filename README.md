@@ -26,6 +26,8 @@ This README outlines the workflow of the script, detailing the processes involve
 4. **Translation and Summarization**: The `ChatPromptTemplate` handles translation and summarization prompts. The Ollama client processes the prompts and generates outputs.
 
 ## Prerequisites
+- Ollama Client
+- Whisper Base version
 - Python 3.8+
 - Install the required dependencies from the `requirements.txt` file.
 
